@@ -1,9 +1,4 @@
-Maven Demo
-==========
+Java Read File in Resources Demo
+================================
 
-A very simple maven project demo.
-
-```
-mvn clean install
-```
-
+Run `Hello.java` in your IDE.
